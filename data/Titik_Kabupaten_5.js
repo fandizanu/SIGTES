@@ -1,0 +1,1 @@
+var json_Titik_Kabupaten_5 = {"type":"FeatureCollection","name":"Titik_Kabupaten_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Kabupaten":"Sijunjung","X":"100° 56' 47.125\"E", "Y": "0°39'48.710\" S"},"geometry":{"type":"Point","coordinates":[100.946423659569874,-0.663530468539448]}}]}
